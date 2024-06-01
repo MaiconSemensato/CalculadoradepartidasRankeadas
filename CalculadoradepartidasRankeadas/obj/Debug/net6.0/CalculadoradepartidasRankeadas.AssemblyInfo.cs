@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraDePartidasRankeadas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoradepartidasRankeadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CalculadoraDePartidasRankeadas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraDePartidasRankeadas")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69b6ef41d9214fe6bfea68cb2868d808d2da93ff")]
+[assembly: System.Reflection.AssemblyProductAttribute("CalculadoradepartidasRankeadas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CalculadoradepartidasRankeadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

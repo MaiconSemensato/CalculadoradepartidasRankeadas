@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraDePartidasRankeadas", "CalculadoraDePartidasRankeadas.csproj", "{B982F8A8-DA79-492E-AD86-92860C3973BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoradepartidasRankeadas", "CalculadoradepartidasRankeadas.csproj", "{AAF98F44-0FF8-4606-8A8A-521A8A0EB1AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B982F8A8-DA79-492E-AD86-92860C3973BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B982F8A8-DA79-492E-AD86-92860C3973BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B982F8A8-DA79-492E-AD86-92860C3973BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B982F8A8-DA79-492E-AD86-92860C3973BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF98F44-0FF8-4606-8A8A-521A8A0EB1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF98F44-0FF8-4606-8A8A-521A8A0EB1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF98F44-0FF8-4606-8A8A-521A8A0EB1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF98F44-0FF8-4606-8A8A-521A8A0EB1AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2F3D37F0-CF25-4F61-8E5A-D6272A232CE9}
+		SolutionGuid = {8C5E4131-FFF3-4723-9F1B-9482F8AB1798}
 	EndGlobalSection
 EndGlobal
