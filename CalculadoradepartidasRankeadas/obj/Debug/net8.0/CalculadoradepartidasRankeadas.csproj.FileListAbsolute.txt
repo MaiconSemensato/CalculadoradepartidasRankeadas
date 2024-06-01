@@ -1,0 +1,15 @@
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.AssemblyInfoInputs.cache
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.AssemblyInfo.cs
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.csproj.CoreCompileInputs.cache
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.sourcelink.json
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\bin\Debug\net8.0\CalculadoradepartidasRankeadas.exe
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\bin\Debug\net8.0\CalculadoradepartidasRankeadas.deps.json
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\bin\Debug\net8.0\CalculadoradepartidasRankeadas.runtimeconfig.json
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\bin\Debug\net8.0\CalculadoradepartidasRankeadas.dll
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\bin\Debug\net8.0\CalculadoradepartidasRankeadas.pdb
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.dll
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\refint\CalculadoradepartidasRankeadas.dll
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.pdb
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\CalculadoradepartidasRankeadas.genruntimeconfig.cache
+D:\devGeral\godot\CalculadoradepartidasRankeadas\CalculadoradepartidasRankeadas\obj\Debug\net8.0\ref\CalculadoradepartidasRankeadas.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoradepartidasRankeadas", "CalculadoradepartidasRankeadas.csproj", "{49238404-83FE-4285-8A78-BCA76DA06F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49238404-83FE-4285-8A78-BCA76DA06F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49238404-83FE-4285-8A78-BCA76DA06F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49238404-83FE-4285-8A78-BCA76DA06F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49238404-83FE-4285-8A78-BCA76DA06F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0917EB4-E3C9-43D6-9856-93DB3629BA82}
+	EndGlobalSection
+EndGlobal
